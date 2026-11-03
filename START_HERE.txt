@@ -1,0 +1,9 @@
+MARKETMIND AI - START HERE
+
+1. Extract this ZIP file.
+2. Open the extracted MarketMind_AI folder in VS Code.
+3. Read README.md for setup commands.
+4. Use Python 3.11 or 3.12 for the smoothest compatibility.
+5. The included CSV is synthetic demo data; use UCI Online Retail for final project experiments.
+
+We will set it up together one step at a time. Do not try all commands at once.
